@@ -62,7 +62,7 @@
 ### Activities
 <!-- <img src="https://github.com/user-attachments/assets/aa65bfdf-4dad-417f-b2f0-7aa582e181ca" width="20"/> [NileSoft](https://www.nilesoft.co.kr/) Web Application Developer <sub>2025.07 ~ Present</sub>   -->
 <img src="https://github.com/user-attachments/assets/558a146f-1e3c-4f50-bc21-4a37baf07cf0" width="20"/> [CMC](https://cmc.makeus.in/) 17th Backend Developer <sub>2025.05 ~ 2025.08</sub>  
-<img src="https://github.com/user-attachments/assets/d46b7efc-76af-4fb1-b004-cf3d17d78aba" width="20"/> [SWYP Web](https://cmc.makeus.in/) 9th Backend Developer <sub>2025.04 ~ 2025.05</sub>  
+<img src="https://github.com/user-attachments/assets/d46b7efc-76af-4fb1-b004-cf3d17d78aba" width="20"/> [SWYP Web](https://swyp.im/web) 9th Backend Developer <sub>2025.04 ~ 2025.05</sub>  
 <img src="https://github.com/user-attachments/assets/c7734f9a-425a-4f68-999d-164281a6c56d" width="20"/> [Gachon Kakao Enterprise SW Academy](https://www.gachon.ac.kr/sntogether/9381/subview.do) 5th Student <sub>2024.09 ~ 2025.02</sub>  
 <img src="https://github.com/user-attachments/assets/bf7ac5df-e0ad-47f1-9b7f-216cdefd874e" width="20"/> [UMC](https://umc.makeus.in/) 6th Backend Developer <sub>2024.03 ~ 2024.08</sub>  
 
