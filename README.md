@@ -9,7 +9,7 @@
 <div>
   <h3>Tech Stacks</h3>
   <h5>Backend</h5> 
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
     <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
